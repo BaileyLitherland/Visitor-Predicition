@@ -9,3 +9,5 @@ I would pre process the data better by removing larger group books(schools and h
 I would add the parameter of OKTA cloud cover instead of solar MJ/m^2 and even use forecasted weather instead of assuming the actual weather is an accurate repensentation of forecasted weather. 
 
 I would also consider time since/until next school holidays as a new parameter, this was previously untested.
+
+I am unable to provide the data collection scripts and predata handling scripts for privacy reasons. However the zoo data was taken from an internal system as a csv of over 30 million rows which was wrangled with python.
